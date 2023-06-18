@@ -1,0 +1,418 @@
+@article{PYYKYZY_2019,
+  title={Recent progress on generative adversarial networks (GANs): A survey},
+  author={Pan, Zhaoqing and Yu, Weijie and Yi, Xiaokai and Khan, Asifullah and Yuan, Feng and Zheng, Yuhui},
+  journal={IEEE access},
+  volume={7},
+  pages={36322--36333},
+  year={2019},
+  publisher={IEEE}
+}
+@article{WGDL_2017,
+  title={Generative adversarial networks: introduction and outlook},
+  author={Wang, Kunfeng and Gou, Chao and Duan, Yanjie and Lin, Yilun and Zheng, Xinhu and Wang, Fei-Yue},
+  journal={IEEE/CAA Journal of Automatica Sinica},
+  volume={4},
+  number={4},
+  pages={588--598},
+  year={2017},
+  publisher={IEEE}
+}
+@inproceedings{LTHC_2017,
+  title={Photo-realistic single image super-resolution using a generative adversarial network},
+  author={Ledig, Christian and Theis, Lucas and Husz{\'a}r, Ferenc and Caballero, Jose and Cunningham, Andrew and Acosta, Alejandro and Aitken, Andrew and Tejani, Alykhan and Totz, Johannes and Wang, Zehan and others},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={4681--4690},
+  year={2017}
+}
+@inproceedings{ZXLZ_2017,
+  title={Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks},
+  author={Zhang, Han and Xu, Tao and Li, Hongsheng and Zhang, Shaoting and Wang, Xiaogang and Huang, Xiaolei and Metaxas, Dimitris N},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={5907--5915},
+  year={2017}
+}
+
+@article{DTL_2017,
+  title={Began: Boundary equilibrium generative adversarial networks},
+  author={Berthelot, David and Schumm, Thomas and Metz, Luke},
+  journal={arXiv preprint arXiv:1703.10717},
+  year={2017}
+}
+
+@inproceedings{HRSTR_2017,
+  title={Beyond face rotation: Global and local perception gan for photorealistic and identity preserving frontal view synthesis},
+  author={Huang, Rui and Zhang, Shu and Li, Tianyu and He, Ran},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={2439--2448},
+  year={2017}
+}
+@inproceedings{WYWG_2018,
+  title={Esrgan: Enhanced super-resolution generative adversarial networks},
+  author={Wang, Xintao and Yu, Ke and Wu, Shixiang and Gu, Jinjin and Liu, Yihao and Dong, Chao and Qiao, Yu and Change Loy, Chen},
+  booktitle={Proceedings of the European conference on computer vision (ECCV) workshops},
+  pages={0--0},
+  year={2018}
+}
+@inproceedings{IZZE_2017,
+  title={Image-to-image translation with conditional adversarial networks},
+  author={Isola, Phillip and Zhu, Jun-Yan and Zhou, Tinghui and Efros, Alexei A},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={1125--1134},
+  year={2017}
+}
+@inproceedings{ZJTPA_2017,
+  title={Unpaired image-to-image translation using cycle-consistent adversarial networks},
+  author={Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={2223--2232},
+  year={2017}
+}
+@inproceedings{KTMHJJ_2017,
+  title={Learning to discover cross-domain relations with generative adversarial networks},
+  author={Kim, Taeksoo and Cha, Moonsu and Kim, Hyunsoo and Lee, Jung Kwon and Kim, Jiwon},
+  booktitle={International conference on machine learning},
+  pages={1857--1865},
+  year={2017},
+  organization={PMLR}
+}
+@inproceedings{LCM_2016,
+  title={Precomputed real-time texture synthesis with markovian generative adversarial networks},
+  author={Li, Chuan and Wand, Michael},
+  booktitle={Computer Vision--ECCV 2016: 14th European Conference, Amsterdam, The Netherlands, October 11-14, 2016, Proceedings, Part III 14},
+  pages={702--716},
+  year={2016},
+  organization={Springer}
+}
+@article{JNUR_2016,
+  title={Texture synthesis with spatial generative adversarial networks},
+  author={Jetchev, Nikolay and Bergmann, Urs and Vollgraf, Roland},
+  journal={arXiv preprint arXiv:1611.08207},
+  year={2016}
+}
+@article{BUNR_2017,
+  title={Learning texture manifolds with the periodic spatial GAN},
+  author={Bergmann, Urs and Jetchev, Nikolay and Vollgraf, Roland},
+  journal={arXiv preprint arXiv:1705.06566},
+  year={2017}
+}
+@article{MDTZ_2017,
+  title={Conditional generative adversarial networks for speech enhancement and noise-robust speaker verification},
+  author={Michelsanti, Daniel and Tan, Zheng-Hua},
+  journal={arXiv preprint arXiv:1709.01703},
+  year={2017}
+}
+@article{BAJK_2018,
+  title={Large scale GAN training for high fidelity natural image synthesis},
+  author={Brock, Andrew and Donahue, Jeff and Simonyan, Karen},
+  journal={arXiv preprint arXiv:1809.11096},
+  year={2018}
+}
+@inproceedings{YLWJY_2017,
+  title={Seqgan: Sequence generative adversarial nets with policy gradient},
+  author={Yu, Lantao and Zhang, Weinan and Wang, Jun and Yu, Yong},
+  booktitle={Proceedings of the AAAI conference on artificial intelligence},
+  volume={31},
+  number={1},
+  year={2017}
+}
+@article{HGPR_2020,
+  title={A comprehensive survey and analysis of generative models in machine learning},
+  author={Harshvardhan, GM and Gourisaria, Mahendra Kumar and Pandey, Manjusha and Rautaray, Siddharth Swarup},
+  journal={Computer Science Review},
+  volume={38},
+  pages={100285},
+  year={2020},
+  publisher={Elsevier}
+}
+@ARTICLE{FWYFJ_2019,
+  author={Fang, Wei and Ding, Yewen and Zhang, Feihong and Sheng, Jack},
+  journal={IEEE Access}, 
+  title={Gesture Recognition Based on CNN and DCGAN for Calculation and Text Output}, 
+  year={2019},
+  volume={7},
+  number={},
+  pages={28230-28237},
+  doi={10.1109/ACCESS.2019.2901930}}
+@inproceedings{ZYSRCH_2012,
+  title={Resource configurable spoken query detection using deep Boltzmann machines},
+  author={Zhang, Yaodong and Salakhutdinov, Ruslan and Chang, Hung-An and Glass, James},
+  booktitle={2012 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={5161--5164},
+  year={2012},
+  organization={IEEE}
+}
+@article{LQAMBMGA_2018,
+  title={Constrained graph variational autoencoders for molecule design},
+  author={Liu, Qi and Allamanis, Miltiadis and Brockschmidt, Marc and Gaunt, Alexander},
+  journal={Advances in neural information processing systems},
+  volume={31},
+  year={2018}
+}
+@article{DKHS_2023,
+  title={“So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy},
+  author={Dwivedi, Yogesh K and Kshetri, Nir and Hughes, Laurie and Slade, Emma Louise and Jeyaraj, Anand and Kar, Arpan Kumar and Baabdullah, Abdullah M and Koohang, Alex and Raghavan, Vishnupriya and Ahuja, Manju and others},
+  journal={International Journal of Information Management},
+  volume={71},
+  pages={102642},
+  year={2023},
+  publisher={Elsevier}
+}
+@article{ZQKJ_2023,
+  title={A survey on graph diffusion models: Generative ai in science for molecule, protein and material},
+  author={Zhang, Mengchun and Qamar, Maryam and Kang, Taegoo and Jung, Yuna and Zhang, Chenshuang and Bae, Sung-Ho and Zhang, Chaoning},
+  journal={arXiv preprint arXiv:2304.01565},
+  year={2023}
+}
+@article{ZZLQ_2023,
+  title={One small step for generative ai, one giant leap for agi: A complete survey on chatgpt in aigc era},
+  author={Zhang, Chaoning and Zhang, Chenshuang and Li, Chenghao and Qiao, Yu and Zheng, Sheng and Dam, Sumit Kumar and Zhang, Mengchun and Kim, Jung Uk and Kim, Seong Tae and Choi, Jinwoo and others},
+  journal={arXiv preprint arXiv:2304.06488},
+  year={2023}
+}
+@inproceedings{BHRV_2021,
+  title={Tfix: Learning to fix coding errors with a text-to-text transformer},
+  author={Berabi, Berkay and He, Jingxuan and Raychev, Veselin and Vechev, Martin},
+  booktitle={International Conference on Machine Learning},
+  pages={780--791},
+  year={2021},
+  organization={PMLR}
+}
+@article{KMRA_2020,
+  title={Text-to-text pre-training for data-to-text tasks},
+  author={Kale, Mihir and Rastogi, Abhinav},
+  journal={arXiv preprint arXiv:2005.10433},
+  year={2020}
+}
+
+@article{NRLR_2020,
+  title={Wt5?! training text-to-text models to explain their predictions},
+  author={Narang, Sharan and Raffel, Colin and Lee, Katherine and Roberts, Adam and Fiedel, Noah and Malkan, Karishma},
+  journal={arXiv preprint arXiv:2004.14546},
+  year={2020}
+}
+
+@article{RSRL_2020,
+  title={Exploring the limits of transfer learning with a unified text-to-text transformer},
+  author={Raffel, Colin and Shazeer, Noam and Roberts, Adam and Lee, Katherine and Narang, Sharan and Matena, Michael and Zhou, Yanqi and Li, Wei and Liu, Peter J},
+  journal={The Journal of Machine Learning Research},
+  volume={21},
+  number={1},
+  pages={5485--5551},
+  year={2020},
+  publisher={JMLRORG}
+}
+@article{MPBS_2015,
+  title={Generating images from captions with attention},
+  author={Mansimov, Elman and Parisotto, Emilio and Ba, Jimmy Lei and Salakhutdinov, Ruslan},
+  journal={arXiv preprint arXiv:1511.02793},
+  year={2015}
+}
+@inproceedings{RAYL_2016,
+  title={Generative adversarial text to image synthesis},
+  author={Reed, Scott and Akata, Zeynep and Yan, Xinchen and Logeswaran, Lajanugen and Schiele, Bernt and Lee, Honglak},
+  booktitle={International conference on machine learning},
+  pages={1060--1069},
+  year={2016},
+  organization={PMLR}
+}
+@inproceedings{TBTX_2023,
+  title={GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis},
+  author={Tao, Ming and Bao, Bing-Kun and Tang, Hao and Xu, Changsheng},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={14214--14223},
+  year={2023}
+}
+@article{RRTQ_2019,
+  title={Fastspeech: Fast, robust and controllable text to speech},
+  author={Ren, Yi and Ruan, Yangjun and Tan, Xu and Qin, Tao and Zhao, Sheng and Zhao, Zhou and Liu, Tie-Yan},
+  journal={Advances in neural information processing systems},
+  volume={32},
+  year={2019}
+}
+@article{MHVA_2023,
+  title={Dreamix: Video diffusion models are general video editors},
+  author={Molad, Eyal and Horwitz, Eliahu and Valevski, Dani and Acha, Alex Rav and Matias, Yossi and Pritch, Yael and Leviathan, Yaniv and Hoshen, Yedid},
+  journal={arXiv preprint arXiv:2302.01329},
+  year={2023}
+}
+@article{CYTX_2020,
+  title={Generative Adversarial Networks: A Literature Review.},
+  author={Cheng, Jieren and Yang, Yue and Tang, Xiangyan and Xiong, Naixue and Zhang, Yuan and Lei, Feifei},
+  journal={KSII Transactions on Internet \& Information Systems},
+  volume={14},
+  number={12},
+  year={2020}
+}
+@article{XFGB_2021,
+  title={Crystal diffusion variational autoencoder for periodic material generation},
+  author={Xie, Tian and Fu, Xiang and Ganea, Octavian-Eugen and Barzilay, Regina and Jaakkola, Tommi},
+  journal={arXiv preprint arXiv:2110.06197},
+  year={2021}
+}
+@article{MC_2023,
+  title={Geometry-complete diffusion for 3d molecule generation},
+  author={Morehead, Alex and Cheng, Jianlin},
+  journal={arXiv preprint arXiv:2302.04313},
+  year={2023}
+}
+
+@article{ODZS_2016,
+  title={Wavenet: A generative model for raw audio},
+  author={Oord, Aaron van den and Dieleman, Sander and Zen, Heiga and Simonyan, Karen and Vinyals, Oriol and Graves, Alex and Kalchbrenner, Nal and Senior, Andrew and Kavukcuoglu, Koray},
+  journal={arXiv preprint arXiv:1609.03499},
+  year={2016}
+}
+@article{EACG_2019,
+  title={Gansynth: Adversarial neural audio synthesis},
+  author={Engel, Jesse and Agrawal, Kumar Krishna and Chen, Shuo and Gulrajani, Ishaan and Donahue, Chris and Roberts, Adam},
+  journal={arXiv preprint arXiv:1902.08710},
+  year={2019}
+}
+@inproceedings{HGAP_2019,
+  title={Passgan: A deep learning approach for password guessing},
+  author={Hitaj, Briland and Gasti, Paolo and Ateniese, Giuseppe and Perez-Cruz, Fernando},
+  booktitle={Applied Cryptography and Network Security: 17th International Conference, ACNS 2019, Bogota, Colombia, June 5--7, 2019, Proceedings 17},
+  pages={217--237},
+  year={2019},
+  organization={Springer}
+}
+@article{GG_2023,
+  title={ChatGPT is not all you need. A State of the Art Review of large Generative AI models},
+  author={Gozalo-Brizuela, Roberto and Garrido-Merchan, Eduardo C},
+  journal={arXiv preprint arXiv:2301.04655},
+  year={2023}
+}
+@inproceedings{RKHR_2021,
+  title={Learning transferable visual models from natural language supervision},
+  author={Radford, Alec and Kim, Jong Wook and Hallacy, Chris and Ramesh, Aditya and Goh, Gabriel and Agarwal, Sandhini and Sastry, Girish and Askell, Amanda and Mishkin, Pamela and Clark, Jack and others},
+  booktitle={International conference on machine learning},
+  pages={8748--8763},
+  year={2021},
+  organization={PMLR}
+}
+@article{SCSL_2022,
+  title={Photorealistic text-to-image diffusion models with deep language understanding},
+  author={Saharia, Chitwan and Chan, William and Saxena, Saurabh and Li, Lala and Whang, Jay and Denton, Emily L and Ghasemipour, Kamyar and Gontijo Lopes, Raphael and Karagol Ayan, Burcu and Salimans, Tim and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={36479--36494},
+  year={2022}
+}
+@article{CZBM_2023,
+  title={Muse: Text-To-Image Generation via Masked Generative Transformers},
+  author={Chang, Huiwen and Zhang, Han and Barber, Jarred and Maschinot, AJ and Lezama, Jose and Jiang, Lu and Yang, Ming-Hsuan and Murphy, Kevin and Freeman, William T and Rubinstein, Michael and others},
+  journal={arXiv preprint arXiv:2301.00704},
+  year={2023}
+}
+@inproceedings{LGTT_2023,
+  title={Magic3d: High-resolution text-to-3d content creation},
+  author={Lin, Chen-Hsuan and Gao, Jun and Tang, Luming and Takikawa, Towaki and Zeng, Xiaohui and Huang, Xun and Kreis, Karsten and Fidler, Sanja and Liu, Ming-Yu and Lin, Tsung-Yi},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={300--309},
+  year={2023}
+}
+@article{ADLM_2022,
+  title={Flamingo: a visual language model for few-shot learning},
+  author={Alayrac, Jean-Baptiste and Donahue, Jeff and Luc, Pauline and Miech, Antoine and Barr, Iain and Hasson, Yana and Lenc, Karel and Mensch, Arthur and Millican, Katherine and Reynolds, Malcolm and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={23716--23736},
+  year={2022}
+}
+@inproceedings{CGYL_2022,
+  title={Visualgpt: Data-efficient adaptation of pretrained language models for image captioning},
+  author={Chen, Jun and Guo, Han and Yi, Kai and Li, Boyang and Elhoseiny, Mohamed},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={18030--18040},
+  year={2022}
+}
+@article{VBKM_2022,
+  title={Phenaki: Variable length video generation from open domain textual description},
+  author={Villegas, Ruben and Babaeizadeh, Mohammad and Kindermans, Pieter-Jan and Moraldo, Hernan and Zhang, Han and Saffar, Mohammad Taghi and Castro, Santiago and Kunze, Julius and Erhan, Dumitru},
+  journal={arXiv preprint arXiv:2210.02399},
+  year={2022}
+}
+
+@article{BMVK_2022,
+  title={Audiolm: a language modeling approach to audio generation},
+  author={Borsos, Zal{\'a}n and Marinier, Rapha{\"e}l and Vincent, Damien and Kharitonov, Eugene and Pietquin, Olivier and Sharifi, Matt and Teboul, Olivier and Grangier, David and Tagliasacchi, Marco and Zeghidour, Neil},
+  journal={arXiv preprint arXiv:2209.03143},
+  year={2022}
+}
+@article{DJPK_2020,
+  title={Jukebox: A generative model for music},
+  author={Dhariwal, Prafulla and Jun, Heewoo and Payne, Christine and Kim, Jong Wook and Radford, Alec and Sutskever, Ilya},
+  journal={arXiv preprint arXiv:2005.00341},
+  year={2020}
+}
+@article{RKXB_2022,
+  title={Robust speech recognition via large-scale weak supervision},
+  author={Radford, Alec and Kim, Jong Wook and Xu, Tao and Brockman, Greg and McLeavey, Christine and Sutskever, Ilya},
+  journal={arXiv preprint arXiv:2212.04356},
+  year={2022}
+}
+@article{BXZ_2022,
+  title={Analogy Generation by Prompting Large Language Models: A Case Study of InstructGPT},
+  author={Bhavya, Bhavya and Xiong, Jinjun and Zhai, Chengxiang},
+  journal={arXiv preprint arXiv:2210.04186},
+  year={2022}
+}
+@article{TDHS_2022,
+  title={Lamda: Language models for dialog applications},
+  author={Thoppilan, Romal and De Freitas, Daniel and Hall, Jamie and Shazeer, Noam and Kulshreshtha, Apoorv and Cheng, Heng-Tze and Jin, Alicia and Bos, Taylor and Baker, Leslie and Du, Yu and others},
+  journal={arXiv preprint arXiv:2201.08239},
+  year={2022}
+}
+@article{SDJP_2022,
+  title={PEER: A Collaborative Language Model},
+  author={Schick, Timo and Dwivedi-Yu, Jane and Jiang, Zhengbao and Petroni, Fabio and Lewis, Patrick and Izacard, Gautier and You, Qingfei and Nalmpantis, Christoforos and Grave, Edouard and Riedel, Sebastian},
+  journal={arXiv preprint arXiv:2208.11663},
+  year={2022}
+}
+@article{CTJY_2021,
+  title={Evaluating large language models trained on code},
+  author={Chen, Mark and Tworek, Jerry and Jun, Heewoo and Yuan, Qiming and Pinto, Henrique Ponde de Oliveira and Kaplan, Jared and Edwards, Harri and Burda, Yuri and Joseph, Nicholas and Brockman, Greg and others},
+  journal={arXiv preprint arXiv:2107.03374},
+  year={2021}
+}
+@article{LCCK_2022,
+  title={Competition-level code generation with alphacode},
+  author={Li, Yujia and Choi, David and Chung, Junyoung and Kushman, Nate and Schrittwieser, Julian and Leblond, R{\'e}mi and Eccles, Tom and Keeling, James and Gimeno, Felix and Dal Lago, Agustin and others},
+  journal={Science},
+  volume={378},
+  number={6624},
+  pages={1092--1097},
+  year={2022},
+  publisher={American Association for the Advancement of Science}
+}
+@inproceedings{DGCT_2020,
+  title={Generative adversarial networks in security: a survey},
+  author={Dutta, Indira Kalyan and Ghosh, Bhaskar and Carlson, Albert and Totaro, Michael and Bayoumi, Magdy},
+  booktitle={2020 11th IEEE Annual Ubiquitous Computing, Electronics \& Mobile Communication Conference (UEMCON)},
+  pages={0399--0405},
+  year={2020},
+  organization={IEEE}
+}
+
+@inproceedings{SKC_2018,
+  title={Defense-GAN: Protecting classifiers against adversarial attacks using generative models},
+  author={Samangouei, Pouya and Kabkab, Maya and Chellappa, Rama},
+  booktitle={International Conference on Learning Representations},
+  year={2018}
+}
+@article{NJKM_2020,
+  title={Recurrent gans password cracker for iot password security enhancement},
+  author={Nam, Sungyup and Jeon, Seungho and Kim, Hongkyo and Moon, Jongsub},
+  journal={Sensors},
+  volume={20},
+  number={11},
+  pages={3106},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{GG_2_2023,
+  title={A survey of Generative AI Applications},
+  author={Gozalo-Brizuela, Roberto and Garrido-Merch{\'a}n, Eduardo C},
+  journal={arXiv preprint arXiv:2306.02781},
+  year={2023}
+}

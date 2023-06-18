@@ -1,0 +1,112 @@
+@article{PYYKYZY_2019,
+  title={Recent progress on generative adversarial networks (GANs): A survey},
+  author={Pan, Zhaoqing and Yu, Weijie and Yi, Xiaokai and Khan, Asifullah and Yuan, Feng and Zheng, Yuhui},
+  journal={IEEE access},
+  volume={7},
+  pages={36322--36333},
+  year={2019},
+  publisher={IEEE}
+}
+@article{WGDL_2017,
+  title={Generative adversarial networks: introduction and outlook},
+  author={Wang, Kunfeng and Gou, Chao and Duan, Yanjie and Lin, Yilun and Zheng, Xinhu and Wang, Fei-Yue},
+  journal={IEEE/CAA Journal of Automatica Sinica},
+  volume={4},
+  number={4},
+  pages={588--598},
+  year={2017},
+  publisher={IEEE}
+}
+@article{HGPR_2020,
+  title={A comprehensive survey and analysis of generative models in machine learning},
+  author={Harshvardhan, GM and Gourisaria, Mahendra Kumar and Pandey, Manjusha and Rautaray, Siddharth Swarup},
+  journal={Computer Science Review},
+  volume={38},
+  pages={100285},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{ZQKJ_2023,
+  title={A survey on graph diffusion models: Generative ai in science for molecule, protein and material},
+  author={Zhang, Mengchun and Qamar, Maryam and Kang, Taegoo and Jung, Yuna and Zhang, Chenshuang and Bae, Sung-Ho and Zhang, Chaoning},
+  journal={arXiv preprint arXiv:2304.01565},
+  year={2023}
+}
+@article{ZZLQ_2023,
+  title={One small step for generative ai, one giant leap for agi: A complete survey on chatgpt in aigc era},
+  author={Zhang, Chaoning and Zhang, Chenshuang and Li, Chenghao and Qiao, Yu and Zheng, Sheng and Dam, Sumit Kumar and Zhang, Mengchun and Kim, Jung Uk and Kim, Seong Tae and Choi, Jinwoo and others},
+  journal={arXiv preprint arXiv:2304.06488},
+  year={2023}
+}
+@article{CYTX_2020,
+  title={Generative Adversarial Networks: A Literature Review.},
+  author={Cheng, Jieren and Yang, Yue and Tang, Xiangyan and Xiong, Naixue and Zhang, Yuan and Lei, Feifei},
+  journal={KSII Transactions on Internet \& Information Systems},
+  volume={14},
+  number={12},
+  year={2020}
+}
+@article{GG_2023,
+  title={ChatGPT is not all you need. A State of the Art Review of large Generative AI models},
+  author={Gozalo-Brizuela, Roberto and Garrido-Merchan, Eduardo C},
+  journal={arXiv preprint arXiv:2301.04655},
+  year={2023}
+}
+@inproceedings{DGCT_2020,
+  title={Generative adversarial networks in security: a survey},
+  author={Dutta, Indira Kalyan and Ghosh, Bhaskar and Carlson, Albert and Totaro, Michael and Bayoumi, Magdy},
+  booktitle={2020 11th IEEE Annual Ubiquitous Computing, Electronics \& Mobile Communication Conference (UEMCON)},
+  pages={0399--0405},
+  year={2020},
+  organization={IEEE}
+}
+@article{DKHS_2023,
+  title={“So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy},
+  author={Dwivedi, Yogesh K and Kshetri, Nir and Hughes, Laurie and Slade, Emma Louise and Jeyaraj, Anand and Kar, Arpan Kumar and Baabdullah, Abdullah M and Koohang, Alex and Raghavan, Vishnupriya and Ahuja, Manju and others},
+  journal={International Journal of Information Management},
+  volume={71},
+  pages={102642},
+  year={2023},
+  publisher={Elsevier}
+}
+@article{GG_2_2023,
+  title={A survey of Generative AI Applications},
+  author={Gozalo-Brizuela, Roberto and Garrido-Merch{\'a}n, Eduardo C},
+  journal={arXiv preprint arXiv:2306.02781},
+  year={2023}
+}
+@article{ASMM_2022,
+  title={Video generative adversarial networks: a review},
+  author={Aldausari, Nuha and Sowmya, Arcot and Marcus, Nadine and Mohammadi, Gelareh},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={55},
+  number={2},
+  pages={1--25},
+  year={2022},
+  publisher={ACM New York, NY}
+}
+@article{RP_2021,
+  title={A survey on text generation using generative adversarial networks},
+  author={de Rosa, Gustavo H and Papa, Joao P},
+  journal={Pattern Recognition},
+  volume={119},
+  pages={108098},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{CLLY_2023,
+  title={A comprehensive survey of ai-generated content (aigc): A history of generative ai from gan to chatgpt},
+  author={Cao, Yihan and Li, Siyu and Liu, Yixin and Yan, Zhiling and Dai, Yutong and Yu, Philip S and Sun, Lichao},
+  journal={arXiv preprint arXiv:2303.04226},
+  year={2023}
+}
+@article{RT_2023,
+  title={ChatGPT and Open-AI Models: A Preliminary Review},
+  author={Roumeliotis, Konstantinos I and Tselikas, Nikolaos D},
+  journal={Future Internet},
+  volume={15},
+  number={6},
+  pages={192},
+  year={2023},
+  publisher={MDPI}
+}
